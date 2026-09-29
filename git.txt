@@ -1,0 +1,8 @@
+link do repo para clone: https://github.com/sallybato/AvaliacaoEscobar.git
+git init
+git add .
+git commit -m "meu commit"
+git branch -M main
+git remote add origin https://github.com/sallybato/AvaliacaoEscobar.git
+git push -u origin main
+
